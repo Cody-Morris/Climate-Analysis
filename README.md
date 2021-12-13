@@ -18,5 +18,3 @@ Designed a query to calculate the total number of stations in the dataset.
 Designed a query to find the most active stations (i.e. which stations have the most rows?).
 
 Designed a query to retrieve the last 12 months of temperature observation data (TOBS).
-
-    ![station-histogram](Images/station-histogram.png)
